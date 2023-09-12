@@ -1,0 +1,152 @@
+body{padding: 0px;
+	margin: 0px;
+
+	/*display: inline-block;*/
+}
+
+.header-clr{
+	background: #024e44;
+	/*height: 60px;*/
+	margin: 0px;
+}
+.header-clr img{
+	padding-right: 10px;
+	margin: 0px;
+}
+.header-clr p {
+	float: left;
+	color: white;
+	padding-top: 15px;
+}
+.header-clr p a{
+	text-decoration: none;
+	color: white;
+}
+.snd-header{
+	background: #a5f9f1;
+	height: 70px;
+}
+.snd-header p{
+	padding-top: 0px;
+	margin: 0px;
+} 
+.search-box input{
+	border-radius: 50px;
+}
+.search-box button{
+	background: red;
+	border-radius: 50px;
+}
+.third-header{
+	background: #5e5959;
+}
+..nav-box li{
+	padding: 0px 15px 0px 15px;
+}
+.nav-box li a{
+    color: white;
+    font-size: 20px;
+}
+.drop{
+  background: #e5e5d8;
+}
+.drop li a{
+	/*background: #e5e5d8;*/
+	color: black;
+	font-weight: normal;
+	font-style: normal;
+}
+.hotsale{
+	background: #e0e0df;
+}
+.pr-box{
+	background: #f5f4e9;
+}
+.pr-box h2{
+	font-size: 20px;
+}
+..pr-box p{
+	font-size: 20px;
+}
+.overwrite{
+	color: red;
+	text-decoration-line: line-through;
+}
+.ourbest{
+	background: #678d93;
+}
+.product-img{
+	padding-top: 15px;
+}
+.clr-golden{
+	color: #fde99b;
+}
+.clr-radish{
+	color: #fe2727;
+}
+.footer{
+	background: #1a1a1a;
+	height: 100px;
+}
+.footer a{
+   text-decoration: none;
+   color: white;
+}
+.footer img{
+	float: left;
+	padding-top: 10px;
+	padding-right: 10px;
+	margin: 0px;
+}
+.footer p{
+	color: white;
+	font-size: 16px;
+}
+.footer-text{
+	font-size: 20px;
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+.py-2 img{
+	padding-right: 4px;
+}
+.last{
+	background: #232943;
+	height: 200px;
+}
+.last h5{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+.last p{
+	color: white;
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+}
+.last p a{
+	text-decoration: none;
+	color: white;
+}
+.decoration a{
+  text-decoration: none;
+  color: black;
+}
+
+.clr-blue{
+	color: #ff0000;
+}
+.Best-Offers{
+	background: #ffb32f;
+}
+.product-box{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	background: #f5f4e9;
+}
+.T-Shirt{
+	background: #eefcec;
+}
